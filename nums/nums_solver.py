@@ -3,7 +3,7 @@ import os
 import time
 
 HOME = os.environ.get("HOME")
-g_nums_folder = HOME + "/Documents/Friday/nums/"
+g_nums_folder = HOME + "/Documents/myProjects/nums_and_letters/"
 g_archive_file = "samples/archived_solutions.txt"
 g_nums_src = "nums/nums.txt"
 

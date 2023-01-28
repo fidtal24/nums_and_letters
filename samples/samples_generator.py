@@ -2,7 +2,7 @@ import random
 import os
 
 HOME = os.environ.get("HOME")
-nums_folder = "Documents/Friday/nums/"
+nums_folder = "Documents/myProjects/nums_and_letters/"
 arcive_file = "archived_solutions.txt"
 generated_file = "generated_solutions.txt"
 
